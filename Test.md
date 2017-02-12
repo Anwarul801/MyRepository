@@ -1,6 +1,7 @@
 #My Name is Anwarul
 
-###This is my first Git file
+
+#This is a list
 * first
 * second
 * third
